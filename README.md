@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="static/repo icon.png" alt="hashcracker" width="60px" <h1 align="center"> hashcracker</h1>>
+  <img src="repo icon.png" alt="hashcracker" width="60px" <h1 align="center"> hashcracker</h1>>
   <br>
 </h1>
 <h4 align="center">Fast hash and password cracking tool.</h4>
