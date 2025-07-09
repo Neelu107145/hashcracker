@@ -5,9 +5,18 @@
 <h4 align="center">Fast hash and password cracking tool.</h4>
 
 ---
+# Hashcracker
+
+`hashcracker` is a password cracking tool that crack the hash, using various type of wordlists with can be customise. basically, this tool does dictionary attack. It supports various type of hash, and also easy to use.
 
 
-`hashcracker` is a password cracking tool that crack the hash, using customizable and other tool's default wordlists. basically , this tool does dictionary attack. This tool is built in way 
 
-We have made it to comply with all the used passive source licenses and usage restrictions. The passive model guarantees speed and stealthiness that can be leveraged by both penetration testers and bug bounty
-hunters alike.
+## Features
+
+* **Supported Hash Algorithms:** It supports various types of hash (e.g., MD5, SHA1, SHA256, SHA384, SHA512 and many more
+* **Cracking Method:** It uses dictionary based attack
+* **Wordlists:** HAshcracker supports number of worldlists. Also, use the user data base customise wordlist.
+
+---
+
+ 
